@@ -8,3 +8,5 @@ menuButton.addEventListener("click", () => {
 menu.addEventListener("click", () => {
   menu.classList.remove("active");
 });
+
+const ad = 1;
